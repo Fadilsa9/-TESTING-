@@ -5,7 +5,6 @@
 
 
 # age = 26
-
 # if age < 30:
 #     print("your age is less than 30 years")
 #     if age > 25:
@@ -19,4 +18,9 @@
 
 # if a == b:
 #     print("1")
-    
+
+
+i = 1
+while i < 6:
+    print(i)
+    i +=1
