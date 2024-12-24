@@ -1,2 +1,2 @@
 # -TESTING-
-### Here I just test what I learn ###
+### Here, I'm just testing what I have learned ###
